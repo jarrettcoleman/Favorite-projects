@@ -1,0 +1,8 @@
+species: example
+memsize: 9
+defense: 2
+offense: 3
+size: 1
+energy: 500
+posture: 17
+POSTURE != 17 --> POSTURE := 17;

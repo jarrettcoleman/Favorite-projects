@@ -1,0 +1,11 @@
+name Small world
+size 10 15
+rock 2 2
+rock 3 6
+rock 9 10
+
+// Some food
+food 4 4 500
+food 1 3 1000
+
+
