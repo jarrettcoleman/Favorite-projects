@@ -1,3 +1,0 @@
-By testing for "yes" rather than "no", we reduce the possibility of accidentally performing a possibly permanent action
-It is much preferable for a user's mistake to result in nothing happening, as an accidental overwrite of a file is much harder to undo
-if the user accidentally does not overwrite the file, they can simply try again.
